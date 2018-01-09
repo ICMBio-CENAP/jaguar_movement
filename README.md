@@ -8,7 +8,7 @@ Movement is akey behaviour for the survival of non-sessile species, including se
 
 This dataset represents the first joint effort of over than 35 jaguar experts to make this information freely available. We are assuming that either retaliation or poaching will not be favored by this data set. In contrast to this logic, we anticipate that this dataset will be invaluable for future research, to answer specific questions about jaguar ecology that will ultimately have a strong impact for the species long-term survival. A total of 117 individuals were monitored within Argentina, Brazil, Costa Rica, México and Paraguay between 1999 and 2016. 
 
-All data will be available in ECOLOGY repository, and this GITHUB repository will be a mirror. We will also keep here as a place for updated version of the data files.
+All data will be available in ECOLOGY repository. This mirror GITHUB repository will maintain updated versions of dataset.
 
 ***(the list below will be updated late January 2018, just after the manuscript submission)***
 
