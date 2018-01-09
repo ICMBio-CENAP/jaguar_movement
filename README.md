@@ -6,9 +6,9 @@ Apex predators are facing dramatic population decline and contraction of geograp
 
 Movement is akey behaviour for the survival of non-sessile species, including securingaccess to food and water, evasion from predators and competitors, and reproduction(Morales et al. 2010). Consequently, disrupting animal movement natural patterns can have important implications forecosystem dynamics and function, including disturbances to food webs andnutrient cycling processes (Allen and Singh 2016). Thus, acomprehensive analysis of animal space use and movement is crucial to understandingthe mechanisms driving species ecology and ecosystem functions.
 
-This dataset represents the first joint effort of over than 35 jaguar experts to make this information freely available. We are assuming that either retaliation or poaching will not be favored by this data set. In contrast to this logic, we anticipate that this dataset will be invaluable for future research, to answer specific questions about jaguar ecology that will ultimately have a strong impact for the species long-term survival. A total of 117 individuals were monitored between 1999 and 2016, and for the following contries will be available: Argentina, Brazil, Costa Rica, México and Paraguay, which were 
+This dataset represents the first joint effort of over than 35 jaguar experts to make this information freely available. We are assuming that either retaliation or poaching will not be favored by this data set. In contrast to this logic, we anticipate that this dataset will be invaluable for future research, to answer specific questions about jaguar ecology that will ultimately have a strong impact for the species long-term survival. A total of 117 individuals were monitored within Argentina, Brazil, Costa Rica, México and Paraguay between 1999 and 2016. 
 
-All data will be available both in ECOLOGY repository, but with this GITHUB repository as a mirror. We will also keep here as a place for updated version of the data files.
+All data will be available in ECOLOGY repository, and this GITHUB repository will be a mirror. We will also keep here as a place for updated version of the data files.
 
 ***(the list below will be updated late January 2018, just after the manuscript submission)***
 
