@@ -1,6 +1,11 @@
 # Jaguar Movement GPS data
 --------------------------------------------------------
-***Morato R. et al (see all the co-authors below): Jaguar Movement Database: a GPS-based movement dataset of the apex predator in Neotropics.***
+
+***Morato R. et al. 2018. Jaguar movement database: a GPS‐based movement dataset of an apex predator in the Neotropics. Ecology, 99: 1691-1691. doi:10.1002/ecy.2379***
+
+This is a repository for sharing the most updated version of the Jaguar movemente database. The first version (v. 1.0) is available at [Ecology](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.2379). If you have any questions or have found errors, please report it here as an [issue](https://github.com/LEEClab/jaguar_movement/issues) or send an e-mail to Ronaldo Morato <<ronaldo.morato@icmbio.gov.br>>.
+
+## Abstract
 
 Apex predators are facing dramatic population decline and contraction of geographic range (Estes et al. 2011, Ripple et al. 2014). The jaguar (*Panthera onca*) has been extirpated from 55% of its historical range and most of its subpopulations throughout Latin Americaare now classified as Endangered or Critically Endangered (De La Torre et al. 2017). Anthropogenic changes to the landscape, either through habitat loss or fragmentation, is amajor threat for the species’ long-term persistence as it directly impacts individual movement and space use (Colchero et al., 2011; Conde et al., 2010; De La Torre etal., 2017; Morato et al., 2016).
 
@@ -8,9 +13,7 @@ Movement is akey behaviour for the survival of non-sessile species, including se
 
 This dataset represents the first joint effort of over than 35 jaguar experts to make this information freely available. We are assuming that either retaliation or poaching will not be favored by this data set. In contrast to this logic, we anticipate that this dataset will be invaluable for future research, to answer specific questions about jaguar ecology that will ultimately have a strong impact for the species long-term survival. A total of 117 individuals were monitored within Argentina, Brazil, Costa Rica, México and Paraguay between 1999 and 2016. 
 
-All data will be available in ECOLOGY repository. This mirror GITHUB repository will maintain updated versions of dataset.
+## List of authors
 
-***(the list below will be updated late January 2018, just after the manuscript submission)***
-
-RONALDO G. MORATO, JEFFREY THOMPSON, AGUSTIN PAVIOLO,  J. ANTONIO DE LA TORRE, ROY MCBRIDE JR, FERNANDO LIMA, ROGERIO C. PAULA, LAURY CULLEN JR, LEANDRO SILVEIRA, DANIEL L.Z. KANTEK, EMILIANO E. RAMALHO, MARIO HABERFELD, DENIS A. SANA, RODRIGO A. MEDELLIN, EDUARDO CARILLO, VICTOR MONTALVO, OCTAVIO MONROY-VILCHIS, MARIO DI BITETTI, CARLOS DE ANGELO, PAULA CRUZ, ANAH T. JACOMO, NATALIA M. TORRES, IVONNE CASSAIGNE, RON THOMPSON, CAROLINA SAENS, JUAN CARLOS CRUZ, LUIZ D. ALFARO, ISABEL HAGNAUER, MARINA S. XAVIER, ALEXANDRE VOGLIOTTI, MARCELA F.D. MORAES,  SELMA S. MIYAZAKI, THADEU D.C. PEREIRA, GEDIENDSON R. ARAUJO, LEANES CRUZ DA SILVA, MARINA M. CARVALHO, LILIAN RAMPIN, LEONARDO SARTORELLO, HOWARD QUIGLEY, FERNANDO TORTATO, ALLISON L. DEVLIN, JOARES A. MAY JR, FERNANDO C.C. DE AZEVEDO, HENRIQUE V.B. CONCONE, ALEXANDRE M.C. LOPES, CYNTHIA E. WIDMER, MILTON CEZAR RIBEIRO. 
+Ronaldo G. Morato Jeffrey J. Thompson Agustin Paviolo Jesus A. de La Torre Fernando Lima Roy T. McBride Jr Rogerio C. Paula Laury Cullen Jr Leandro Silveira Daniel L. Z. Kantek Emiliano E. Ramalho Louise Maranhão Mario Haberfeld Denis A. Sana Rodrigo A. Medellin Eduardo Carrillo Victor Montalvo Octavio Monroy‐Vilchis Paula Cruz Anah T. Jacomo Natalia M. Torres Giselle B. Alves Ivonne Cassaigne Ron Thompson Carolina Saens‐Bolanos Juan Carlos Cruz Luiz D. Alfaro Isabel Hagnauer Xavier Marina da Silva Alexandre Vogliotti Marcela F. D. Moraes Selma S. Miyazaki Thadeu D. C. Pereira Gediendson R. Araujo Leanes Cruz da Silva Lucas Leuzinger Marina M. Carvalho Lilian Rampin Leonardo Sartorello Howard Quigley Fernando Tortato Rafael Hoogesteijn Peter G. Crawshaw Jr. Allison L. Devlin Joares A. May Jr Fernando C. C. de Azevedo Henrique V. B. Concone Veronica A. Quiroga Sebastian A. Costa Juan P. Arrabal Ezequiel Vanderhoeven Yamil E. Di Blanco Alexandre M. C. Lopes Cynthia E. Widmer Milton Cezar Ribeiro 
 
